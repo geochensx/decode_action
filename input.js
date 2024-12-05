@@ -12,7 +12,7 @@
  *
  * @author Telegram@sudojia
  * @site https://blog.imzjw.cn
- * @date 2024/08/16
+ * @date 2024/08/15
  *
  * const $ = new Env('海澜之家-游戏')
  * cron: 39 8,15,20 * * *
